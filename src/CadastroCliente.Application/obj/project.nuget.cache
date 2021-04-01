@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "C8p58YiDX67gj7/19oY9om0gC2ECwS06UiRsoV1k+3+uXh7CdEa7f20yFxWHSb8SL8hLEPau1O2MgTCDa4KPOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Caio César\\repos\\api-cadastro-cliente\\src\\CadastroCliente.Application\\CadastroCliente.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caio César\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Caio César\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Caio César\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Caio César\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Caio César\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Caio César\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Caio César\\.nuget\\packages\\mongodb.bson\\2.12.1\\mongodb.bson.2.12.1.nupkg.sha512",
+    "C:\\Users\\Caio César\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Caio César\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

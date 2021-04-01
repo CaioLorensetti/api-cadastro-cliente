@@ -1,0 +1,15 @@
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Infrastructure\bin\Debug\netcoreapp3.1\CadastroCliente.Application.exe
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Infrastructure\bin\Debug\netcoreapp3.1\CadastroCliente.Infrastructure.deps.json
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Infrastructure\bin\Debug\netcoreapp3.1\CadastroCliente.Infrastructure.dll
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Infrastructure\bin\Debug\netcoreapp3.1\CadastroCliente.Infrastructure.pdb
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Infrastructure\bin\Debug\netcoreapp3.1\CadastroCliente.Application.dll
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Infrastructure\bin\Debug\netcoreapp3.1\CadastroCliente.Domain.dll
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Infrastructure\bin\Debug\netcoreapp3.1\CadastroCliente.Application.pdb
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Infrastructure\bin\Debug\netcoreapp3.1\CadastroCliente.Domain.pdb
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Infrastructure\obj\Debug\netcoreapp3.1\CadastroCliente.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Infrastructure\obj\Debug\netcoreapp3.1\CadastroCliente.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Infrastructure\obj\Debug\netcoreapp3.1\CadastroCliente.Infrastructure.AssemblyInfo.cs
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Infrastructure\obj\Debug\netcoreapp3.1\CadastroCliente.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Infrastructure\obj\Debug\netcoreapp3.1\CadastroCliente.Infrastructure.csproj.CopyComplete
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Infrastructure\obj\Debug\netcoreapp3.1\CadastroCliente.Infrastructure.dll
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Infrastructure\obj\Debug\netcoreapp3.1\CadastroCliente.Infrastructure.pdb

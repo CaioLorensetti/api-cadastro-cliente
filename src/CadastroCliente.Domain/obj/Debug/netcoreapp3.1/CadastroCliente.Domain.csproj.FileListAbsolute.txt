@@ -1,0 +1,8 @@
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Domain\bin\Debug\netcoreapp3.1\CadastroCliente.Domain.deps.json
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Domain\bin\Debug\netcoreapp3.1\CadastroCliente.Domain.dll
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Domain\bin\Debug\netcoreapp3.1\CadastroCliente.Domain.pdb
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Domain\obj\Debug\netcoreapp3.1\CadastroCliente.Domain.AssemblyInfoInputs.cache
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Domain\obj\Debug\netcoreapp3.1\CadastroCliente.Domain.AssemblyInfo.cs
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Domain\obj\Debug\netcoreapp3.1\CadastroCliente.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Domain\obj\Debug\netcoreapp3.1\CadastroCliente.Domain.dll
+C:\Users\Caio César\repos\api-cadastro-cliente\src\CadastroCliente.Domain\obj\Debug\netcoreapp3.1\CadastroCliente.Domain.pdb
